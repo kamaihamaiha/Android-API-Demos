@@ -1,0 +1,38 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Gradle template
+.gradle
+/build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
+
+.gitignore
+app/build/generated/res/
+app/build/generated/source/apt/
+app/build/generated/source/rs/
+app/build/intermediates/check-libraries/
+app/build/intermediates/check-manifest/
+app/build/intermediates/checkDebugClasspath/
+app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/
+app/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/
+app/build/intermediates/incremental/mergeDebugResources/stripped.dir/
+app/build/intermediates/incremental/processDebugResources/
+app/build/intermediates/incremental/validateSigningDebug/
+app/build/intermediates/jniLibs/
+app/build/intermediates/prebuild/
+app/build/intermediates/res/symbol-table-with-package/
+app/build/intermediates/rs/
+app/build/intermediates/shader_assets/
+app/build/intermediates/shaders/
+app/build/intermediates/symbols/
+app/build/intermediates/transforms/externalLibsDexMerger/debug/0/
+app/build/tmp/
