@@ -1,0 +1,4 @@
+#Thu Nov 01 15:14:55 CST 2018
+base.0=G\:\\SDK_Sample\\APIDemos\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
